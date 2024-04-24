@@ -1,0 +1,82 @@
+@media screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+html {
+  height: 100%;
+  background: linear-gradient(to bottom, gray, black);
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.minhaDiv,
+.caixasDeDialogo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 30px;
+}
+
+.minhaDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 80%;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-top: 20px;
+}
+
+.minhaImagem {
+  width: 25%;
+  border-radius: 30px;
+  margin: auto;
+}
+
+.caixasDeDialogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  border-radius: 30px;
+  background: linear-gradient(to bottom right, #ccc, #999);
+}
+
+.popup {
+  position: absolute;
+  right: 15%;
+  width: 30%;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 20px;
+  display: none;
+}
+
+form label {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+form input[type="text"] {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.meuPopup.popup .formulario {
+  display: flex;
+  flex-direction: column;
+}
+
+.meuPopup.popup .formulario label,
+.meuPopup.popup .formulario input {
+  margin-bottom: 10px;
+}

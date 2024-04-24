@@ -1,75 +1,31 @@
 # <div align="center">Santander 2024 - Criando Jogos com Godot : 
-# <div align="center"> Classificador de Nível de Herói 
+# <div align="center"> 1️⃣ - Classificador de Nível de Herói 
 
 Desafio desenvolvido como parte de um projeto educacional da [DIO](https://www.dio.me/sign-up?ref=13JYL0Y2AV) (Digital Innovation One) no bootcamp: **_Santander 2024 - Criando Jogos com Godot_**. Seguindo as orientações e passo a passo dos conceitos com o professor Felipe.
 
 
 ## <div align="center"> Objetivo Geral</div>
 
+Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
-Criar funções:
-- Cad;
-- Cada;
-- Lista.
+- Se XP for menor do que 1.000 = Ferro
+- Se XP for entre 1.001 e 2.000 = Bronze
+- Se XP for entre 2.001 e 5.000 = Prata 
+- Se XP for entre 5.001 e 7.000 = Ouro
+- Se XP for entre 7.001 e 8.000 = Platina Diamante
+- Se XP for entre 8.001 e 9.000 = Ascendente
+- Se XP for entre 9.001 e 10.000 = Imortal
+- Se XP for maior ou igual a 10.001 = Radiante
+
 
 ## <div align="center"> Desafio</div>
 
 
 Fomos . 
-<br>Para.
-- [x] De;
-- [x] Sa;
-- [x] Ex;
-- [x] No;
-- [x] No.
-
-## <div align="center"> Operação de </div>
-<br>
-
-- [x] Deve . 
-
-<br>Todos o.
-
-## <div align="center"> Operação de </div>
-<br>
-
-- [x] O sistema  **_3  saque_**. 
-
-<br>Caso .
-
-## <div align="center"> Operação de </div>
-<br>
-
-- [x] Essa operação .
-
-<br>Os valores 
+<br>Ao final deve se exibir uma mensagem:
+"O Herói de nome {%s} está no nível de {%s}"
 
 
-## <div align="center"> Operação de </div>
-<br>
-
-Deve-se armazenar os usuários em uma lista, composto por: 
-- [x]  **_N;_**
-- [x]  **_D;_**
-- [x]  **_C;_**
-- [x]  **_En._**
-
-<br>Na V2 .
-
-<br>Importante .
-
-## <div align="center"> Operação de </div>
-<br>
-
-Deve-se armazenar as contas em uma lista, composta por: 
-
-- [x] **_A;_**
-- [x] **_N;_** 
-- [x] **_U_**
-
-<br>O número.
-
-<br>Para .
 
 ***
 # <div align="center"> **_Talita Mendonça Marquês_** </div>
