@@ -5,9 +5,10 @@ Desafio desenvolvido como parte de um projeto educacional da [DIO](https://www.d
 
 
 ## <div align="center"> Objetivo Geral</div>
-
+<br>
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
-
+<br><br>
+ 
 - Se XP for menor do que 1.000 = Ferro
 - Se XP for entre 1.001 e 2.000 = Bronze
 - Se XP for entre 2.001 e 5.000 = Prata 
@@ -21,9 +22,8 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 ## <div align="center"> Desafio</div>
 
 
-Fomos . 
 <br>Ao final deve se exibir uma mensagem:
-"O Herói de nome {%s} está no nível de {%s}"
+"O Herói de nome {variável} está no nível de {variável}"
 
 
 
